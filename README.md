@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EchoSlamByJava
-- 👀 I’m interested in java
-- 🌱 I’m currently learning maven
+- 👀 I’m interested in java backend
+- 🌱 I’m currently learning spring, maven, docker
 - 💞️ I’m looking to collaborate on backend
 - 📫 How to reach me ...
 
